@@ -1,6 +1,6 @@
 Emotion detection using Convolutional Neural Networks (CNNs) is a technique used to automatically recognize and classify emotions expressed in images or videos. CNNs are a class of deep learning models that are particularly effective at capturing spatial patterns in data, making them well-suited for tasks like image recognition and classification.
 
-Here's a brief overview of how emotion detection using CNNs typically works:
+Here's a brief overview of how emotion detection using CNNs typically works:-
 
 Data Collection and Preprocessing: Emotion detection systems require a dataset of labeled images or videos that contain examples of different facial expressions corresponding to different emotions (such as happiness, sadness, anger, etc.). These datasets are often preprocessed to standardize image sizes, adjust lighting conditions, and normalize colors.
 
