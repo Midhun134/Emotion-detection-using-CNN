@@ -11,5 +11,5 @@ Training: The CNN model is trained on the labeled dataset using a process called
 Evaluation: Once trained, the performance of the CNN model is evaluated using a separate test dataset that it hasn't seen before. The model's accuracy, precision, recall, and other metrics are calculated to assess its effectiveness at correctly classifying emotions.
 
 Deployment: After successful evaluation, the trained CNN model can be deployed in real-world applications for emotion detection. It can analyze images or video frames in real-time, detect facial expressions, and infer the underlying emotions.
-Overall, emotion detection using CNNs enables automated analysis of human emotions in various applications, including customer feedback analysis, human-computer interaction, and sentiment analysis in social media.\
+Overall, emotion detection using CNNs enables automated analysis of human emotions in various applications, including customer feedback analysis, human-computer interaction, and sentiment analysis in social media.
  
